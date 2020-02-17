@@ -1,1 +1,11 @@
 Changelog for Data-Object-Role-Proxyable
+
+2.01 2020-02-17T04:54:24
+ - Added release updates
+ - Re-releasing to the CPAN
+
+2.00 2020-02-16T16:08:26
+ - Built release version 2.00
+ - Added release updates
+ - Initial implementation
+ - Initial commit
