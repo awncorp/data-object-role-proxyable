@@ -1,6 +1,11 @@
 Changelog for Data-Object-Role-Proxyable
 
-2.01 2020-02-17T04:54:24
+2.02 2020-02-23T19:52:28
+ - Added release updates
+ - Fix role routine signatures
+
+2.01 2020-02-17T04:54:25
+ - Built release version 2.01
  - Added release updates
  - Re-releasing to the CPAN
 
