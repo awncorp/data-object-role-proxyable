@@ -1,6 +1,11 @@
 Changelog for Data-Object-Role-Proxyable
 
-2.02 2020-02-23T19:52:28
+2.03 2020-02-23T22:42:55
+ - Added release updates
+ - Regenerate D/O/Role/Proxyable.pod
+
+2.02 2020-02-23T19:52:29
+ - Built release version 2.02
  - Added release updates
  - Fix role routine signatures
 
